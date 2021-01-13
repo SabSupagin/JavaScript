@@ -1,5 +1,5 @@
 function test(t) {
-    if (t === underfined){
+    if (t === undefined){
         return "Underfined value!";
     }
     return t;
