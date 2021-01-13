@@ -3,7 +3,7 @@ function getVowels(str){
     if (m === null){
         return 0;
     }
-    return m.lengyh;
+    return m.length;
 }
 
 console.log(getVowels("seeing"));
