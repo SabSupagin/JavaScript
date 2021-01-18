@@ -32,10 +32,8 @@ function equation(str){
             total -= num[i];
         }else if (operator[i-1] == '*'){
             total *= num[i];
-        }else if (operator[i-1] == '/'){
-            total /= num[i];
         }
     }
     return total;
 }
-console.log(equation("100*10-200/10"));
+console.log(equation("1+1+1+1+1"));
