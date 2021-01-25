@@ -24,4 +24,4 @@ function compare(values1,values2){
         }
     }
 }
-compare(values2,values3);
+compare(values1,values2,values3);
