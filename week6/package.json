@@ -1,0 +1,21 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "Test Deploy Node to Cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabSupagin/JavaScript/issues"
+  },
+  "homepage": "https://github.com/SabSupagin/JavaScript#readme"
+}
